@@ -1,0 +1,3 @@
+import gwrlib 
+
+gwrlib.FullRun()
